@@ -10,5 +10,4 @@ Below are the links to the instruction on how to create the server and client.
  http://github.com/dreamingrainbow/todo-list-client-with-server-lesson/todo-list-server
 
 ## Client -- Todo List Client With Axios, and Redux-Promise.
- http://github.com/dreamingrainbow/todo-list-client-with-server-lesson/todo-list-client-redux-lesson
-
+ https://github.com/dreamingrainbow/todo-list-server
