@@ -7,7 +7,7 @@ Once we create the new folder, and have cloned the other repository we can creat
 Below are the links to the instruction on how to create the server and client. 
 
 ## Server -- Todo List Server
- http://github.com/dreamingrainbow/todo-list-client-with-server-lesson/todo-list-server
+ https://github.com/dreamingrainbow/todo-list-server
 
 ## Client -- Todo List Client With Axios, and Redux-Promise.
- https://github.com/dreamingrainbow/todo-list-server
+ https://github.com/dreamingrainbow/todo-list-client-with-server-lesson/tree/master/todo-list-client-redux-lesson
